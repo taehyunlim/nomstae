@@ -52,6 +52,7 @@ gem 'sass-rails'
 
 gem 'kaminari'
 
+gem 'simple_form'
 
 
 
